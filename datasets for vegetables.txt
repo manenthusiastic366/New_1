@@ -1,0 +1,5 @@
+rice	https://huggingface.co/AI0Master/plant_disease/tree/main
+wheat	https://huggingface.co/AI0Master/wheat/tree/main
+pepper_tomato_cabbage	https://huggingface.co/AI0Master/pepper_tomato_cabbage/tree/main
+pumpkin	https://huggingface.co/AI0Master/pumpkin/tree/main
+radish	https://huggingface.co/AI0Master/radish/tree/main
